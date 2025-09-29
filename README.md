@@ -117,10 +117,3 @@ This setup is designed for **scalability** (easy to add new tests/pages), **main
 **Happy Testing! 🚀**
 
 ```
-
----
-
-✅ **How to use:**
-1. Copy the **Repo Description** into the GitHub “Description” field when creating the repository.
-2. Save the **README.md** content as your `README.md` file in the project root.
-```
